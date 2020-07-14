@@ -28,7 +28,3 @@
 
 ## Favorite Editor
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
----
-
-⭐️ From [Alexander Celis](https://github.com/donCelis)
