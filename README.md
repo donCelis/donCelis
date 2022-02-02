@@ -11,6 +11,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-squ&logo=vite)
+![ESLint](https://img.shields.io/badge/-ESLint-4b32c3?style=flat-squ&logo=eslint)
 
 ## Frameworks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodedotjs)
