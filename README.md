@@ -14,9 +14,10 @@
 
 ## Frameworks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodedotjs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-squ&logo=nextdotjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-squ&logo=tailwindcss)
 
 ## Design
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobephotoshop&logoColor=ffffff)
