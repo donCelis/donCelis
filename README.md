@@ -52,6 +52,6 @@
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=donCelis&show_icons=true&layout=compact&border_radius=8&hide_border=true&theme=react" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donCelis&layout=compact&langs_count=7&border_radius=8&hide_border=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donCelis&show_icons=true&layout=compact&border_radius=8&hide_border=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donCelis&layout=compact&langs_count=7&border_radius=8&hide_border=true&theme=react" />
 </div>
