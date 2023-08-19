@@ -51,5 +51,7 @@
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublimetext)
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=donCelis&show_icons=true&layout=compact&border_radius=8&hide_border=true&theme=react)
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donCelis&layout=compact&langs_count=7&border_radius=8&hide_border=true&theme=react)
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=donCelis&show_icons=true&layout=compact&border_radius=8&hide_border=true&theme=react" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donCelis&layout=compact&langs_count=7&border_radius=8&hide_border=true&theme=react" />
+</div>
