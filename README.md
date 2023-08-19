@@ -16,6 +16,7 @@
 ## Frameworks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-squ&logo=react)
 ![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-squ&logo=nextdotjs)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-squ&logo=tailwindcss)
@@ -50,4 +51,5 @@
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublimetext)
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=donCelis&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=donCelis&show_icons=true&layout=compact&border_radius=8&hide_border=true&theme=react)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donCelis&layout=compact&langs_count=7&border_radius=8&hide_border=true&theme=react)
